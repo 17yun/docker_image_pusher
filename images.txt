@@ -1,2 +1,2 @@
-/gvenzl/oracle-xe:latest
+oracle-xe:latest
 
