@@ -1,5 +1,5 @@
 nginx
-oracle-xe:18.4.0
+oracle-xe
 redis
 
 #支持私库
