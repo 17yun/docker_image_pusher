@@ -1,6 +1,6 @@
-nginx
-oracle-xe
+ wnameless/oracle-xe-11g 
 redis
+mysql
 
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
