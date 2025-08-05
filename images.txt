@@ -1,3 +1,4 @@
-oracle
-oracle-xe
+gvenzl/oracle-xe:18.4.0
+
+
 
